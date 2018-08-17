@@ -1,0 +1,2 @@
+# iOSAutoPackaging
+iOSAutoPackaging xcodebuild
